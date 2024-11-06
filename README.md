@@ -30,7 +30,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 
 ## Education & Certifications 🧑‍🎓
 - **Tableau Business Intelligence Analyst** (Coursera) - Completed in 10/2024
-- **IBM Data Analyst Capstone Project** (Coursera) – Completed in 10/2024
+- **IBM Data Analyst** (Coursera) – Completed in 10/2024
 - **Master’s in Applied Mathematics** (Université de Lorraine) – Advanced skills in data science & Financial Mathematics : Completed in 09/2022
 
 ## Interested ? 🤝
