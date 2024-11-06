@@ -1,8 +1,7 @@
 # Welcome to My GitHub 👋
-
 I’m Thibaut, a Data Analyst with a strong passion for turning data into actionable insights. With a Master’s degree in Applied Mathematics, an IBM certification in Data Analysis, and a Tableau certification in Business Intelligence Analysis. I’ve developed a range of data projects, showcased here, that tackle real-world problems in areas like cinema, finance, and travel. My goal is to harness the power of data to create valuable outcomes.
 
-## Technical Skills
+## Technical Skills 🔧
 - **Data Analysis** : Data preparation, visualization, statistical analysis 
 - **Tools & Languages** : Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Tableau, Jupyter, Git/GitHub, VSCode
 - **Web Scraping** : Data extraction with BeautifulSoup and Requests
@@ -10,7 +9,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **SEO & Content Marketing Analysis** : Experience in trend analysis and user behavior insights
 - **Interactive Visualization** : Created interactive dashboard with Tableau
 
-## Notable Projects
+## Notable Projects 
 ### Cinema Trends Analysis 🎬
 - **Objective** : Analyzing global cinema trends from 1970 to 2024, including ratings, genres, and directors.
 - **Tools** : Python, Tableau, GitHub
@@ -29,11 +28,10 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **Methods** : Data collection and country comparison
 - **Outcome** : Created a comparative table and identified high-potential markets.
 
-## Education & Certifications
-
+## Education & Certifications 🧑‍🎓
 - **Tableau Business Intelligence Analyst** (Coursera) - Completed in 10/2024
 - **IBM Data Analyst Capstone Project** (Coursera) – Completed in 10/2024
 - **Master’s in Applied Mathematics** (Université de Lorraine) – Advanced skills in data science & Financial Mathematics : Completed in 09/2022
 
-## Interested? 🤝
+## Interested ? 🤝
 If my profile resonates with you, feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/thibaut-lanners/), or reach out directly via my email thibaut.lanners55@gmail.com. Looking forward to connecting !
