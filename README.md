@@ -31,7 +31,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 ## Education & Certifications 🧑‍🎓
 - **Tableau Business Intelligence Analyst** (Coursera) - Completed in 10/2024
 - **IBM Data Analyst** (Coursera) – Completed in 10/2024
-- **Master’s in Applied Mathematics** (Université de Lorraine) – Advanced skills in data science & Financial Mathematics : Completed in 09/2022
+- **Master’s in Applied Mathematics** (Université de Lorraine) – Advanced skills in Data Science & Financial Mathematics : Completed in 09/2022
 
 ## Interested ? 🤝
 If my profile resonates with you, feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/thibaut-lanners/), or reach out directly via my email thibaut.lanners55@gmail.com. Looking forward to connecting !
