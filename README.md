@@ -12,22 +12,22 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 
 ## Notable Projects
 ### Cinema Trends Analysis 🎬
-- **Objective**: Analyzing global cinema trends from 1970 to 2024, including ratings, genres, and directors.
-- **Tools**: Python, Tableau, GitHub
-- **Methods**: Grouping by genre, rating analysis, creating a genre-based treemap and yearly percentage trend.
-- **Outcome**: Identified emerging genres and evaluated average ratings by director and writer, with a professional report conclusion.
+- **Objective** : Analyzing global cinema trends from 1970 to 2024, including ratings, genres, and directors.
+- **Tools** : Python, Tableau, GitHub
+- **Methods** : Grouping by genre, rating analysis, creating a genre-based treemap and yearly percentage trend.
+- **Outcome** : Identified emerging genres and evaluated average ratings by director and writer, with a professional report conclusion.
 
 ### Stock and Revenue Analysis 📈
-- **Objective**: Visualizing stock price and revenue trends for Tesla and GameStop.
-- **Tools**: Python (yfinance, BeautifulSoup)
-- **Methods**: Data extraction via API and web scraping, analysis of price trends and growth.
-- **Outcome**: Highlighted correlations between revenue and stock price changes over time.
+- **Objective** : Visualizing stock price and revenue trends for Tesla and GameStop.
+- **Tools** : Python (yfinance, BeautifulSoup)
+- **Methods** : Data extraction via API and web scraping, analysis of price trends and growth.
+- **Outcome** : Highlighted correlations between revenue and stock price changes over time.
 
 ### Comparative Study for Startup Launch 🚄
-- **Objective**: Assessing the best countries for launching a train booking startup.
-- **Tools**: Python, qualitative and quantitative research
-- **Methods**: Data collection and country comparison
-- **Outcome**: Created a comparative table and identified high-potential markets.
+- **Objective** : Assessing the best countries for launching a train booking startup.
+- **Tools** : Python, qualitative and quantitative research
+- **Methods** : Data collection and country comparison
+- **Outcome** : Created a comparative table and identified high-potential markets.
 
 ## Education & Certifications
 
@@ -36,5 +36,4 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **Master’s in Applied Mathematics** (Université de Lorraine) – Advanced skills in data science & Financial Mathematics : Completed in 09/2022
 
 ## Interested? 🤝
-If my profile resonates with you, feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/thibaut-lanners/), or reach out directly via my email. Looking forward to connecting!
-
+If my profile resonates with you, feel free to explore my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/thibaut-lanners/), or reach out directly via my email thibaut.lanners55@gmail.com. Looking forward to connecting !
