@@ -22,7 +22,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **Methods**: Data extraction via API and web scraping, analysis of price trends and growth.
 - **Outcome**: Highlighted correlations between revenue and stock price changes over time.
 
-### Comparative Study for Startup Launch 🚄
+### Market Research for Startup Launch 🚄
 - **Objective**: Assessing the best countries for launching a train booking startup.
 - **Tools**: Python, qualitative and quantitative research
 - **Methods**: Data collection and country comparison
