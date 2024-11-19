@@ -11,20 +11,20 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 ## Notable Projects 
 ### Cinema Trends Analysis 🎬
 - **Objective**: Analyzing global cinema trends from 1970 to 2024, including ratings, genres, and directors.
-- **Tools**: Python and Tableau
+- **Tools**: Python and Tableau.
 - **Methods**: Data enrichment with the OMDb API, grouping by genre, rating analysis.
 - **Outcome**: Creation of an interactive dashboard, accessible to a wide audience and allowing in-depth exploration of the dataset.
 
 ### Stock and Revenue Analysis 📈
 - **Objective**: Visualizing stock price and revenue trends for Tesla and GameStop.
-- **Tools**: Python (yfinance, BeautifulSoup)
+- **Tools**: Python (yfinance, BeautifulSoup).
 - **Methods**: Data extraction via API and web scraping, analysis of price trends and growth.
 - **Outcome**: Highlighted correlations between revenue and stock price changes over time.
 
 ### Market Research for Startup Launch 🚄
 - **Objective**: Assessing the best countries for launching a train booking startup.
-- **Tools**: Python, qualitative and quantitative research
-- **Methods**: Data collection and country comparison
+- **Tools**: Python, qualitative and quantitative research.
+- **Methods**: country comparison exclusively with Tableau via various visualizations.
 - **Outcome**: Created a comparative table and identified high-potential markets.
 
 ## Education & Certifications 🧑‍🎓
