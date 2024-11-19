@@ -1,5 +1,5 @@
 # Welcome to My GitHub 👋
-I’m Thibaut, a Data Analyst with a strong passion for turning data into actionable insights. With a Master’s degree in Applied Mathematics, an IBM certification in Data Analysis, and a Tableau certification in Business Intelligence Analysis. I’ve developed a range of data projects, showcased here, that tackle real-world problems in areas like cinema, finance, and travel. My goal is to harness the power of data to create valuable outcomes.
+I’m Thibaut, a Data Analyst with a strong passion for turning data into actionable insights. With a Master’s degree in Applied Mathematics, an IBM certification in Data Analysis, and a Tableau certification in Business Intelligence Analysis. I’ve developed a range of data projects, showcased here, that tackle real-world problems in areas like cinema, finance, and market analysis. My goal is to harness the power of data to create valuable outcomes.
 
 ## Technical Skills 🔧
 - **Data Analysis**: Data preparation, visualization, statistical analysis 
