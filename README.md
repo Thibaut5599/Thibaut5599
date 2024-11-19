@@ -25,7 +25,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **Objective**: Assessing the best countries for launching a train booking startup.
 - **Tools**: Python, qualitative and quantitative research.
 - **Methods**: country comparison exclusively with Tableau via various visualizations.
-- **Outcome**: Created a comparative table and identified high-potential markets.
+- **Outcome**: Identification of markets with high potential, creation of a Tableau story presenting the reasons why France is the best country, creation of a dashboard so that anyone can explore the data as they wish.
 
 ## Education & Certifications 🧑‍🎓
 - **Tableau Business Intelligence Analyst Professional Certificate** (Coursera) - Completed in 10/2024
