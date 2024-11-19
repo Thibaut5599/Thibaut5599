@@ -11,7 +11,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 ## Notable Projects 
 ### Cinema Trends Analysis 🎬
 - **Objective**: Analyzing global cinema trends from 1970 to 2024, including ratings, genres, and directors.
-- **Tools**: Python, Tableau, GitHub
+- **Tools**: Python and Tableau
 - **Methods**: Grouping by genre, rating analysis, creating a genre-based treemap and yearly percentage trend.
 - **Outcome**: Identified emerging genres and evaluated average ratings by director and writer, with a professional report conclusion.
 
