@@ -2,7 +2,7 @@
 I’m Thibaut, a Data Analyst with a strong passion for turning data into actionable insights. With a Master’s degree in Applied Mathematics, an IBM certification in Data Analysis, and a Tableau certification in Business Intelligence Analysis. I’ve developed a range of data projects, showcased here, that tackle real-world problems in areas like cinema, finance, and market analysis. My goal is to harness the power of data to create valuable outcomes.
 
 ## Technical Skills 🔧
-- **Data Analysis**: Data preparation, visualization, statistical analysis 
+- **Data Analysis**: Data preparation, visualization, statistical analysis, Exploratory Data Analysis (EDA)
 - **Tools & Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL (MySQL), Tableau, Excel, Git/GitHub, Jupyter, VSCode
 - **Web Scraping**: Data extraction with BeautifulSoup and Requests
 - **APIs and Financial Data**: Using yfinance for stock market analysis
