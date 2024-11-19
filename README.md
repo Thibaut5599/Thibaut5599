@@ -3,7 +3,7 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 
 ## Technical Skills 🔧
 - **Data Analysis**: Data preparation, visualization, statistical analysis, Exploratory Data Analysis (EDA)
-- **Tools & Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL (MySQL), Tableau, Excel, Git/GitHub, Jupyter, VSCode
+- **Tools & Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn), SQL (MySQL), MATLAB, LaTeX, Tableau, Excel, Git/GitHub, Jupyter, VSCode
 - **Web Scraping**: Data extraction with BeautifulSoup and Requests
 - **APIs and Financial Data**: Using yfinance for stock market analysis
 - **SEO & Content Marketing Analysis**: Experience in trend analysis and user behavior insights
