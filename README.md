@@ -7,6 +7,8 @@ I’m Thibaut, a Data Analyst with a strong passion for turning data into action
 - **Web Scraping**: Data extraction with BeautifulSoup and Requests
 - **APIs and Financial Data**: Using yfinance for stock market analysis
 - **Interactive Visualization**: Created interactive dashboard with Tableau
+- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 ## Notable Projects 
 ### Cinema Trends Analysis 🎬
